@@ -1,0 +1,2 @@
+-e git+https://github.com/SayreBlades/sprite2.git@master#egg=sprite2==master.git
+-r requirements-aws.txt
